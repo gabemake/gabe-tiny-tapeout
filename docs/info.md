@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I connected a bunch of AND gates together to make a really big AND gate.
 
 ## How to test
 
-Explain how to use your project
+Set all the inputs to 1 and the output should show 1 on the LED 7-segment display. Otherwise it should show a 0.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
